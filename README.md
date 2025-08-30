@@ -5,7 +5,7 @@
 - 📧 Email: kavitaofficial15@gmail.com  
 - 📱 Contact: +91 8268121890  
 - 💼 [LinkedIn](https://in.linkedin.com/in/kavita-bhor-2b9832153)  
-- 🖥️ [GitHub](https://www.linkedin.com/in/kavita-bhor-2b9832153) 
+- 🖥️ [GitHub]([https://www.linkedin.com/in/kavita-bhor-2b9832153](https://github.com/kavita-gamedev/kavita-gamedev)) 
 
 🎮 Specialized in:  
 - UI Systems for Games (Mobile, PC, AR , VR)  

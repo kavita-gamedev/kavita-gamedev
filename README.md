@@ -79,7 +79,6 @@ I’m open to:
 
 ---
 
-## ✨ Final Note  
 I believe great games are built at the intersection of **creativity, technology, and teamwork**.  
 Every project I work on is driven by the vision to create **experiences players remember, share, and love**.  
 

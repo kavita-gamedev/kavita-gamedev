@@ -1,11 +1,11 @@
 # 🎮 Kavita Bhor
 
 🚀 **Freelance / Lead Unity Developer** | 7+ Years of Experience
-📍 Navi Mumbai / India
+- 📍 Navi Mumbai / India
 - 📧 Email: kavitaofficial15@gmail.com  
 - 📱 Contact: +91 8268121890  
-- 💼 [LinkedIn](your-linkedin-url)  
-- 🖥️ [GitHub]([https://github.com/kavita-gamedev](https://in.linkedin.com/in/kavita-bhor-2b9832153)) 
+- 💼 [LinkedIn](https://in.linkedin.com/in/kavita-bhor-2b9832153)  
+- 🖥️ [GitHub]([[https://github.com/kavita-gamedev](https://in.linkedin.com/in/kavita-bhor-2b9832153](https://github.com/kavita-gamedev))) 
 
 🎮 Specialized in:  
 - UI Systems for Games (Mobile, PC, AR , VR)  

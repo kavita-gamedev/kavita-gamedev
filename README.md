@@ -1,6 +1,6 @@
 # 🎮 Kavita Bhor
 
-🚀 **Freelance / Lead Unity Developer** | 7+ Years of Experience
+🚀 **Freelance / Lead Unity Developer** | 7+ Years of Experience | UI for Games (Mobile, PC, AR)| Multiplayer | Backend Integration | Build Pipeline
 - 📍 Navi Mumbai / India
 - 📧 Email: kavitaofficial15@gmail.com  
 - 📱 Contact: +91 8268121890  

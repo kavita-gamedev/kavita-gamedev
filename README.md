@@ -1,4 +1,4 @@
-# Hi, I'm Kavita Bhor 👋  
+# 🎮 Kavita Bhor
 
 🚀 **Freelance / Lead Unity Developer** | 7+ Years of Experience
 📍 Navi Mumbai / India
@@ -30,17 +30,18 @@ With 7+ years in the gaming industry, I have worked extensively as a **Team Lead
 - **Gameplay Systems**: Multiplayer Architecture, UI/UX, Game Design, Problem Solving, Time & Project Management
 - **Backend**: AWS , Azure , MongoDB, Socket Communication
 - **Tools**: 
-- Git, Visual Studio,Photon, Xcode , PlayFab , Firebase
-- Photoshop, Figma  
-- Google Play Console (ANRs, Crashes), CCD, App Lovin
-- Apple Developer Portal (Certificates, Provisioning Profiles, App Store Publishing)
+  Git, Visual Studio,Photon, Xcode , PlayFab , Firebase
+  Photoshop, Figma  
+  Google Play Console (ANRs, Crashes), CCD, App Lovin
+  Apple Developer Portal (Certificates, Provisioning Profiles, App Store Publishing)
 - **Leadership & Management**:
-- Led a team of 9 Unity Developers + 2 Backend Developers  
-- Sprint Planning & Agile Scrum Master  
-- Recruitment, Mentoring, and Cross-functional Coordination
+  Led a team of 9 Unity Developers + 2 Backend Developers  
+  Sprint Planning & Agile Scrum Master  
+  Recruitment, Mentoring, and Cross-functional Coordination
+
+---
 
 ## 💼 Experience  
-
 **Team Lead / Senior Unity Developer — Wharf Street Studios Pvt. Ltd.**  
 📍 Navi Mumbai | 🗓 June 2020 – Present
 - Developed **Epiko Regal, Epiko World, Epiko Bricks, Epiko Valley (VR)**  
@@ -51,17 +52,17 @@ With 7+ years in the gaming industry, I have worked extensively as a **Team Lead
 - Optimized performance for Android, iOS, Steam & VR platforms  
 - Led a team of **9 Unity Developers + 2 Backend Developers**
 - Scrum Master: handled sprint planning, recruitment & mentoring  
-- Oversaw development & delivery pipelines across mobile, PC, and AR projects  
----
-
+- Oversaw development & delivery pipelines across mobile, PC, and AR projects
+  
 **Game Programmer — Roosh Interactive Pvt. Ltd.**  
 📍 Navi Mumbai | 🗓 Sept 2018 – May 2020  
 - **Ludo Judo** – Multiplayer with Photon, UI + localization  
 - **2407 Racing / Premier League** – Ads, analytics, gameplay loops  
 - **Drag Racing** – Basic Photon multiplayer & UI implementation  
 
-## 🤝 Let’s Collaborate  
+---
 
+## 🤝 Let’s Collaborate  
 I’m open to:  
 - ✅ Indie game development & co-dev partnerships  
 - ✅ Multiplayer gameplay scripting & backend integration (Photon, PlayFab, Firebase, Node.js)  
@@ -76,8 +77,9 @@ I’m open to:
 📧 Email me: **kavitaofficial15@gmail.com**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/kavita-bhor-2b9832153)  
 
-## ✨ Final Note  
+---
 
+## ✨ Final Note  
 I believe great games are built at the intersection of **creativity, technology, and teamwork**.  
 Every project I work on is driven by the vision to create **experiences players remember, share, and love**.  
 

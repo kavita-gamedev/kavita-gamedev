@@ -55,7 +55,7 @@ With 7+ years in the gaming industry, I have worked extensively as a **Team Lead
 - Oversaw development & delivery pipelines across mobile, PC, and AR projects
 
  ## 🎯 Featured Projects
-** Professional (Wharf Street Studios)
+**Professional (Wharf Street Studios)
 - Epiko Regal → Tower Defense + Web3 + AR, with Photon & Unity Netcode (iOS, Android, Solana, JioGames)
 - Epiko Valley VR → 4-player VR board game (Meta Quest)
 - Epiko World: Legends Showdown → Multiplayer MOBA (PvP + 3v3) launched on PlayStation, Steam, Epic Games

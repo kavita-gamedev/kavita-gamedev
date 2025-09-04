@@ -69,11 +69,6 @@ With 7+ years in the gaming industry, I have worked extensively as a **Team Lead
 - **2407 Racing / Premier League** – Ads, analytics, gameplay loops  
 - **Drag Racing** – Basic Photon multiplayer & UI implementation  
 
-## 🛠 Deployed Titles
-Here are the games I’ve contributed & deploy across platforms:
-- **Epiko Regal → Android, iOS, Solana Blockchain, JioGames (India)
-- **Epiko Valley VR → Meta Quest (VR)
-- **Epiko World: Legends Showdown → Steam(Playtest)
 ---
 
 ## 🤝 Let’s Collaborate  

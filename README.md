@@ -53,13 +53,27 @@ With 7+ years in the gaming industry, I have worked extensively as a **Team Lead
 - Led a team of **9 Unity Developers + 2 Backend Developers**
 - Scrum Master: handled sprint planning, recruitment & mentoring  
 - Oversaw development & delivery pipelines across mobile, PC, and AR projects
-  
+
+ ** 🎯 Featured Projects
+- Professional (Wharf Street Studios)
+- Epiko Regal → Tower Defense + Web3 + AR, with Photon & Unity Netcode (iOS, Android, Solana, JioGames)
+- Epiko Valley VR → 4-player VR board game (Meta Quest)
+- Epiko World: Legends Showdown → Multiplayer MOBA (PvP + 3v3) launched on PlayStation, Steam, Epic Games
+- Epiko Smash → Hypercasual infinite space runner
+- Epiko Bricks → Blending Match-3 mechanics with tower defense strategy
+- Escape Room → custom puzzle controllers and timed triggers
+
 **Game Programmer — Roosh Interactive Pvt. Ltd.**  
 📍 Navi Mumbai | 🗓 Sept 2018 – May 2020  
 - **Ludo Judo** – Multiplayer with Photon, UI + localization  
 - **2407 Racing / Premier League** – Ads, analytics, gameplay loops  
 - **Drag Racing** – Basic Photon multiplayer & UI implementation  
 
+## 🛠 Deployed Titles
+Here are the games I’ve contributed & deploy across platforms:
+- **Epiko Regal → Android, iOS, Solana Blockchain, JioGames (India)
+- **Epiko Valley VR → Meta Quest (VR)
+- **Epiko World: Legends Showdown → Steam(Playtest)
 ---
 
 ## 🤝 Let’s Collaborate  
